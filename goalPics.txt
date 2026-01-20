@@ -1,0 +1,3 @@
+books.jpg
+food.jpg
+study.jpg
